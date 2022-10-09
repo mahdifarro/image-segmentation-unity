@@ -13,7 +13,7 @@ TFlite models are not totally supported in unity yet. This project allows you to
 Project is created with:
 * Python version: 3.6+ 64-bit
 * Unity version: 2020.1+
-* TensorflowLite4Unity (see https://github.com/bkunters/TFLite4Unity)
+* TensorflowLite4Unity (see https://github.com/asus4/tf-lite-unity-sample)
 
 ## Setup
 To run this project,
